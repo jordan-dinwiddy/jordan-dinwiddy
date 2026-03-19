@@ -10,7 +10,7 @@
 - 📄 **[FixItPDF](https://fixitpdf.com)** - Fix broken PDFs!
 - 🔑 **[ShareOTP](https://shareotp.app)** - Share OTP codes with your team
 - 🔄 **[SyncFast](https://getsyncfast.com)** - Automate your bookkeeping
-- 📷 **[DeskCam](https://deskcam.io)** - Secure your office
+- 📷 **[DeskCam](https://deskcam.io)** - Stream any webcam securely over WebRTC
 
 ## Coming Soon™
 
