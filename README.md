@@ -2,24 +2,20 @@
 
 📍 Los Angeles
 
-> 🛠️ Building · 🚀 Shipping
+> 🛠️ building... 🚀
 
 ## Projects
 
-| Project | Description |
-|---------|-------------|
-| 📍 **[ShieldGPS](https://shieldgps.com)** | GPS tracking solutions |
-| 📄 **[FixItPDF](https://fixitpdf.com)** | Fix broken PDFs! |
-| 🔑 **[ShareOTP](https://shareotp.app)** | Share OTP codes with your team |
-| 🔄 **[SyncFast](https://getsyncfast.com)** | Automate your bookkeeping |
-| 📷 **[DeskCam](https://deskcam.io)** | Secure your office |
+- 📍 **[ShieldGPS](https://shieldgps.com)** - GPS tracking solutions
+- 📄 **[FixItPDF](https://fixitpdf.com)** - Fix broken PDFs!
+- 🔑 **[ShareOTP](https://shareotp.app)** - Share OTP codes with your team
+- 🔄 **[SyncFast](https://getsyncfast.com)** - Automate your bookkeeping
+- 📷 **[DeskCam](https://deskcam.io)** - Secure your office
 
 ## Coming Soon™
 
-| Project | Description |
-|---------|-------------|
-| 🐴 **Equivue** | AI-powered equine health monitoring |
-| 🏇 **EquiTrail** | Strava for equestrians |
+- 🐴 **Equivue** - AI-powered equine health monitoring
+- 🏇 **EquiTrail** - Strava for equestrians
 
 ## GitHub Activity
 
