@@ -24,3 +24,5 @@
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jordan-dinwiddy)
+
+![](https://hit.yhype.me/github/profile?account_id=1081933)
