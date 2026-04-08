@@ -2,8 +2,6 @@
 
 📍 Los Angeles
 
-> 🛠️ building... 🚀
-
 ## Projects
 
 - 📍 **[ShieldGPS](https://shieldgps.com)** - GPS tracking solutions
